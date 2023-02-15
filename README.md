@@ -1,6 +1,6 @@
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7be0972f-9bff-4f33-bb17-ef696d5d5902/deploy-status)](https://app.netlify.com/sites/ardasen-todo/deploys)
+[![Netlify Status](https://ardasen-todo.netlify.app)]
 # Getting Start This Application
 
 ### `npm start`
