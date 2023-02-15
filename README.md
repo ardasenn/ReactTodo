@@ -1,3 +1,6 @@
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/35a557f1-0c05-49dc-9231-eb9cead92647/deploy-status)](https://app.netlify.com/sites/ardasen-todo/deploys)
 # Getting Start This Application
 
 ### `npm start`
@@ -7,3 +10,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+
+
+## Screen Shot
+![todoList](https://user-images.githubusercontent.com/106491131/219022912-a6a15ec3-6b2f-49c3-a347-aa1f7e0b577e.png)
